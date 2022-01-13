@@ -18,7 +18,7 @@ export default function LandingPage() {
             <span>Press Start</span>
           </button>
         </Link>
-        <div className='landingPresContent'>
+        <div>
           <a href="https://github.com/AlmafuerteAriel/" target="blank"><img className='landingPresIcon' src={github} alt="github" /></a>
           <a href="https://www.linkedin.com/in/ariel-alejandro-romero-14a43020b/" target="blank"><img className='landingPresIcon'src={linkedin} alt="linkedin" /></a>
         </div>
